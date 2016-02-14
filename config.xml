@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"  
+        xmlns:gap   = "http://phonegap.com/ns/1.0" 
+        id          = "com.phonegap.testsmart.ms"  
+        versionCode = "10" 
+        version     = "1.0.0" > 
+
+   
+        <name>Testsmsrt</name> 
+
+        <description> 
+            Тестирование по профессии для работников ОПО
+        </description>
+
+        <author href="http://www.crazyjoe.ru/" email="ev3103@hotmail.com">
+            Evgeniy Vladimirov
+        </author> 
+    </widget>
