@@ -17,3 +17,6 @@ img/favicon-96x96.png
 img/favicon-16x16.png
 img/manifest.json
 img/safari-pinned-tab.svg
+# Resources that require the user to be online.
+NETWORK:
+http://ms.testsmart.ru/
